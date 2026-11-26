@@ -1,0 +1,14 @@
+# Secretos y datos locales
+.env
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
